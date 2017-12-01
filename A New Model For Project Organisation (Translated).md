@@ -20,7 +20,7 @@ We need to find a way to combine these two resources in the most efficient way p
 
 The current model that we have now was chucked together over the past 10 days. We reach out to the Bitcoin Cash community through some social media platforms and attempt to get them into a Slack group. To defend against trolls and bots we cannot link to the signup page publicly. This means we have to manually message the link to every person who wants to sign up. Then once they signup they are put into the lobby by default. Most discussion goes on in private channels though, which means new people joining have to be manually added to all the private channels. This takes a lot of time when you have to do this for hundreds of people. For thousands of people, this would simply be impossible. This is what I have spent a huge amount of time doing the past week and a half because I know how important it is to gather the community while we have momentum, but this is not a scalable or realistic solution for the future.
 
-The other problem with Slack is that it is great to discussing ideas and connecting with people, but it is a terrible platform for making definitive progress on a project with a team of people potentially scattered all around the world. Valuable ideas are simply washed up the page never to be seen again. For project development and management, a communication platform with more permanence is required. 
+The other problem with Slack is that it is great to discussing ideas and connecting with people, but it is a terrible platform for making definitive progress on a project with a team of people potentially scattered all around the world. Valuable ideas are simply washed up the page never to be seen again. For project development and management, a communication platform with more permanence is required.
 
 ### A Rough Model for Community Organisation ###
 
@@ -73,7 +73,7 @@ We have to move from point 1 (a disorganised community) to point 10 (awareness a
 * Can be implemented immediately
 * Zero cost for everyone
 
-First join Github [HERE](https://github.com/) if you haven’t already. 
+First join Github [HERE](https://github.com/) if you haven’t already.
 
 Then join Gitter at our BCF community [HERE](https://gitter.im/Bitcoin-Cash-Fund/Lobby) using your Github account.
 
@@ -84,34 +84,28 @@ Our Trello page can be viewed [HERE](https://trello.com/b/vII31atU/projects) at 
 
 # 比特币现金基金（BCF）项目组织新模式 #
 
-![](https://image.ibb.co/h3fCk6/BCF_Logo_Yours_Title_Image.png)
-
-> 本文为 [比特币现金基金](https://thebitcoincash.fund/)（BCF，Bitcoin Cash Fund）为更好的运行[比特币现金](https://www.bitcoincash.org/)（Bitcoin Cash）社区项目，而提出的新的社区组织模式。
->
-> 原文链接：https://www.yours.org/content/a-new-model-for-bcf-project-organisation-5cb6692298ab/
-
-目前社区正处于散乱的处境。为了最有效地利用我们的资源，我们必须改善我们社区的组织模式来达到最大成果，也让我们尽可能达到更多对于比特币现金的意识以及应用。我们拥有两种广大的资源：
+目前社区正处于散乱的处境。为了最有效地利用我们的资源，我们必须改进我们社区的组织模式来达到最大成果，也让我们尽可能达到对于比特币现金的更强意识以及更广泛应用。我们拥有两种广大的资源：
 
 1. 来自捐赠者以及赞助商的资金
 2. 充满热忱以及持有多方技能的社区，愿意自愿帮助比特币现金取得成功
 
-我们必须探讨如何结合这两种资源，以最有效的方式来取得广大的意识与应用。要如何做到这一点？以下是个基本的模式来说明怎样实行这项任务。
+我们必须探讨如何结合这两种资源，以最有效的方式来取得更强意识与广泛应用。要如何做到这一点？以下是个基本的模式来说明如何达成这项目标。
 
-### 1. 目前的模式及问题 ###
+### 目前的模式及问题 ###
 
-我们现有的模式是过去十天里拼凑起来的。我们通过各种社交媒体与比特币现金社区成员沟通接触，试着引导他们加入一个Slack团体。为了防范巨魔（大量无节制的恶意及垃圾广告）以及机器人的扰乱，我们无法公开透露登记页面的链接。这意味着我们得通过手动方式向每个有兴趣的成员留言。一旦登记，新成员只能在 ” [lobby](https://gitter.im/Bitcoin-Cash-Fund/Lobby) “ 聊天室参与议论。大部分的议论都局限于私密频道，若新成员想要参与，就得通过手动方式把他们加入私密频道。为上百个人这么做实在是太费时了，为上千人数这么做简直就是不可能的任务。我在过去一个半星期里为这件事费了不少的时间，因为我了解在势头正旺时聚集社区的重要性。但对于未来，目前使用的方案即不切实际，又没有扩展的空间。
+我们现有的模式是过去十天里拼凑起来的。我们通过各种社交媒体与比特币现金社区成员沟通接触，试着引导他们加入一个Slack群组。为了防范水军以及机器人的扰乱，我们无法公开透露注册页面的链接。这意味着我们得通过手动方式向每个有兴趣的成员留言。一旦登记，新成员只能在‘lobby’聊天室参与议论。大部分的议论都局限于私密频道，若新成员想要参与，就得通过手动方式把他们加入私密频道。为上百个人这么做实在是太费时了，为上千人数这么做简直就是不可能的任务。我在过去一个半星期里为这件事费了不少的时间，因为我了解在势头正旺时聚集社区的重要性。但对于未来，目前使用的方案既不切实际，又没有可供扩展的空间。
 
-Slack的优点是它能让人进行构思研讨以及与他人接触。但是，把它作为一个协作平台，与来自世界各地的项目团体成员来促使项目进展，Slack是无法胜任于此。宝贵的意见往往从此前沟通记录消失。对于项目发展以及管理，一个较有持久性的沟通平台是不可或缺的。
+Slack的优点是它能让人进行构思研讨以及与他人接触。但是，把它作为一个协作平台，和来自世界各地的项目团体成员一同来促使项目进展，Slack是无法胜任的。宝贵的意见往往会随着聊天记录消失。因此对于项目发展以及管理，一个较有持久性的沟通平台是不可或缺的。
 
-### 2. 社区组织的概要模式 ###
+### 社区组织的概要模式 ###
 
-根据以下图形1展现的模式，我们把社区成员集中于一个能符合我们需求的主要平台。我们可以通过各种社交媒体（以及实际活动，例如聚会与会议）集合有兴趣的成员。社区可以通过自我组织的方式组成不同队伍，向基金提议发展自己的项目。基金将会供资最具有影响力的项目，让这些队伍实行他们的项目来提高比特币现金的意识以及应用。
+根据以下图形1展现的模式，我们把社区成员集中于一个能符合我们需求的主要平台。我们可以通过各种社交媒体（以及实际活动，例如聚会与会议）集合有兴趣的成员。社区可以通过自我组织的方式组成不同队伍，向基金提议发展自己的项目。基金将会资助最具有影响力的项目，让这些队伍实行他们的项目来提高比特币现金的意识以及应用。
 
 <img src="A%20New%20Model%20For%20BCF%20Project%20Organisation/Figure%201_ZH.png" height="450">
 
-说起来容易，做起来难。在下一段，我将描述一个详细的模式来说明如何达致此目标。
+说起来容易，做起来难。在下一段，我将描述一个详细的模式来说明如何达成此目标。
 
-### 3. 比特币现金基金（BCF）社区经营模式 ### 
+### 比特币现金基金（BCF）的社区经营模式 ### 
 
 图形2展现的模式利用三种平台来传达大部分的资讯。
 
@@ -123,7 +117,7 @@ Slack的优点是它能让人进行构思研讨以及与他人接触。但是，
 
 **Gitter** 将会是我们使用的通讯通道，即快又直接，在任何时候能让多数成员一起进行讨论。它非常适合让新人加入参与一般性的构思讨论。您可以利用Github账户就能开始使用Gitter，不需要额外的账户，两个平台一起链接。与Slack不同的是，任何人可以观察我们在Gitter上的进展，想在任何时候参与简直是轻而易举。我们可以为专门项目提供新的聊天室，随时都欢迎任何人加入。
 
-**Trello **是个简单的平台让基金跟踪各个项目的进展。基金的Trello页面将会公诸于世，让任何人可以观看正在积极实行的项目，若想参与项目他们可以通过Gitter以及Github与有关成员联系。
+**Trello**是个简单的平台让基金跟踪各个项目的进展。基金的Trello页面将会公诸于世，让任何人可以查看正在积极实行的项目，若想参与项目他们可以通过Gitter以及Github与有关成员取得联系。
 
 <img src="A%20New%20Model%20For%20BCF%20Project%20Organisation/Figure%202_ZH.png" height="450">
 
@@ -138,8 +132,8 @@ Slack的优点是它能让人进行构思研讨以及与他人接触。但是，
 5. 自愿挑选一到两名成员担任组长，带领项目以及团队。
 6. 组长为项目自创单独Gitter聊天室以及新的Github仓库，并邀请团队成员加入。组长必须告知基金相关的项目、聊天室、以及仓库，以便基金在Trello上跟踪项目进展并放置项目资讯以及链接，方便任何人参与或跟踪此项目。
 7. 团队首先在自己的Gitter聊天室以及Github仓库上研讨项目计划。一旦有了较完善的计划，团队可以利用这份文件填上内容，然后向基金提交资金提议计划。资金提议计划是Github项目仓库里的第一个commit，任何想参与项目的人可以参考此份计划。基金将会把这份计划进行审查。
-8. 基金要么就接受提议，要么就把提议向团队退还，并提供反馈意见。如果基金接受了提议，项目必然受到供资，在Trello上也会显示 ” Funded “ 。
-9. 团队可以将把项目实行，基金将会跟踪项目的进展来确保各个团队都有需要的资源来顺利进展。
+8. 基金要么就接受提议，要么就把提议向团队退回并提供反馈意见。如果基金接受了提议，项目必然受到供资，在Trello上也会显示‘Funded’。
+9. 团队将实施项目，基金将会跟踪项目的进展来确保各个团队都有顺利开展项目所需要的资源。
 10. 如果项目取得成功，这将会提升比特币现金的意识以及应用。
 
 ### 4. 新的模式会为我们带来什么好处？ ###
@@ -158,4 +152,4 @@ Slack的优点是它能让人进行构思研讨以及与他人接触。但是，
 
 然后通过您的Github账户，请在[这里](https://gitter.im/Bitcoin-Cash-Fund/Lobby)加入Gitter与我们的比特币现金基金社区接触。
 
-您可以随时在[这里](https://trello.com/b/vII31atU/projects)观看我们的Trello网页来跟踪比特币现金基金的项目。
+您可以随时在[这里](https://trello.com/b/vII31atU/projects)访问我们的Trello网页来跟踪比特币现金基金的项目。
